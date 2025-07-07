@@ -21,6 +21,14 @@ The project is divided into four main parts:
 
 ---
 
+## 📄 License 
+
+This repository is intended for academic use only.
+
+Do not copy or reuse without permission.
+
+---
+
 ## ✅ How to Run
 
 1. Open the `.ipynb` notebooks in **Jupyter** or **Google Colab**.
@@ -30,13 +38,4 @@ The project is divided into four main parts:
 ```python
 import numpy as np
 labels = np.load("labels.npy")
-print(labels.shape)  # Should be (6955,)```
-
----
-
-## 📄 License 
-
-This repository is intended for academic use only.
-
-Do not copy or reuse without permission.
-
+print(labels.shape)  # Should be (6955,)

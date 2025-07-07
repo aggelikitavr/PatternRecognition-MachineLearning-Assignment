@@ -34,12 +34,8 @@ print(labels.shape)  # Should be (6955,)
 
 ---
 
-📄 License
-This repository is intended for academic use only.
-Do not copy or reuse without permission.
-
----
-
 ## 📄 License
+
 This repository is intended for academic use only.
+
 Do not copy or reuse without permission.
